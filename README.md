@@ -1,1 +1,3 @@
 # xiaoxinpro13-hackintosh
+
+用于小新pro13的hackintosh的安装
